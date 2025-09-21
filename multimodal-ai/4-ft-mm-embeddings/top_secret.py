@@ -1,1 +1,1 @@
-my_key = "your YouTube API key here"
+my_key = "AIzaSyCyLKuu_Yx93QqmM2S3hy7M2CwihDMcN78"
