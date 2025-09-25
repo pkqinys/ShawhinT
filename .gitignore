@@ -5,6 +5,7 @@ __pycache__/
 
 # Models
 **/models/
+**/distilbert-base-uncased-lora-text-classification
 
 # C extensions
 *.so
